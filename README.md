@@ -52,7 +52,7 @@ This project is about people. About a voice that listens.
 
 ## 📘 Подробнее / More Info
 
-Полное описание проекта: [docs/Полное описание проекта Iria.docx](docs/full-project-description-iria.docx)
+Полное описание проекта: [docs/full-project-description-iria.docx](docs/full-project-description-iria.docx)
 
 ---
 
